@@ -1,7 +1,7 @@
 <h2><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px"> Hi you can call me Mairink </h2>
 
 # Current Operating Systems
-- Sistemas Operacionais: Arch Linux, Kali Linux, Windows 11, Parrot OS, Mac OS e 
+- Sistemas Operacionais: Arch Linux, Kali Linux, Windows 11, Parrot OS, Mac OS
 
 # Curent knowledge
   - Pentest
